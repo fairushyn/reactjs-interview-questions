@@ -14,7 +14,7 @@
                 <img src="https://user-images.githubusercontent.com/13550565/76382460-cc784d80-6393-11ea-8837-2b89265ac853.png" width="260" alt="FullStack.Cafe">
             </div>
         </a>
-        <sub><i>Proudly supporting the React Interview Questions</i></sub>
+        <sub><i>Proudly supporting React Interview Questions</i></sub>
     </p>
 </div>
 
