@@ -6,7 +6,7 @@
 
 <div align="center">
     <p>
-        <a href="https://www.fullstack.cafe/?utm_source=github&utm_medium=awint">
+        <a href="https://www.fullstack.cafe/?utm_source=github&utm_medium=sud">
             <b>Having Tech Interview?</b>
             <br> 3600 Tech Interview Questions. <b>Answered</b>.
             <br>
